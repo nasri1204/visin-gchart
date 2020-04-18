@@ -106,7 +106,7 @@
             </div>
             <div>
                 <div class="uk-card uk-card-default uk-card-small uk-card-body" >
-                    <h3 class="uk-card-title">Total Pendapatan Produk</h3>
+                    <h3 class="uk-card-title">Total Penjualan Produk</h3>
                     <div id="jml" style="height:350px;"></div>
                 </div>
             </div>
